@@ -27,9 +27,4 @@ Welcome to my GitHub profile! I'm Stanley Kim, a passionate software engineer wh
 - Email: [stanleykim2003@gmail.com](mailto:stanleykim2003@gmail.com)
 - LinkedIn: [linkedin.com/in/stanleykim2003/](https://www.linkedin.com/in/stanleykim2003/)
 
-😄 **Pronouns:** He/Him
-
-⚡ **Fun fact:**
-- I once automated a tedious two-week HR process into an efficient workflow, cutting down the time by more than 90%. Curious about how I did it? Let's chat!
-
 For more details about my work and projects, check out my [portfolio](https://stanleytk.github.io/Portfolio/). Dive into my world of code, innovation, and a sprinkle of mystery. Happy coding! 🚀
