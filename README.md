@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile! I'm Stanley Kim, a passionate software engineer who loves diving into complex problems and emerging with elegant solutions.
+Welcome to my GitHub profile! I'm Stanley Kim, a passionate software engineer who loves diving into complex problems.
 
 🔭 **What I'm currently working on:**
 - Building [StockPulse](https://github.com/stanleytk/StockPulse/), a real-time stock portfolio tracker and simulation game, using React, Next.js, Java, Spring, and MySQL.
