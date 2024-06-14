@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm Stanley Kim, a dedicated software engineer experienced in full stack development. I love working on projects during breaks/"off-semesters" and try to survive my academic and internship commitments throughout the year.
 
-🔭 **Projects I'm (trying to) working on:**
+🔭 **Projects I'm (trying to) work on:**
 - Building [StockPulse](https://github.com/stanleytk/StockPulse/), a real-time stock portfolio tracker and simulation game, using React, Next.js, Java, Spring, and MySQL.
 - Enhancing my chess engine, [MyChessEngine](https://github.com/stanleytk/MyChessEngine/), to handle complex move scenarios and improve AI decision-making.
 
